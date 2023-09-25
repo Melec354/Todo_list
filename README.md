@@ -1,16 +1,16 @@
-# todo_list
+# Todo_list
 
-A new Flutter project.
+A simple new project to consolidate the knowledge learned from the Rick_and_morty project. And also learning about Neumorphism.
 
-## Getting Started
+## Main packages
 
-This project is a starting point for a Flutter application.
+flutter_bloc  
+shared_preferences  
+get_it  
+flutter_inset_box_shadow (Neumorphism)
 
-A few resources to get you started if this is your first Flutter project:
+View
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Запись экрана 2023-09-25 в 16 13 37](https://github.com/Melec354/Todo_list/assets/34657403/500cbd1e-68e3-43c1-8837-d06d39e61c8b)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
